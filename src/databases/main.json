@@ -1,0 +1,28 @@
+{
+    "schedules": [
+        {
+            "schedule": "0 10 * * *",
+            "message": "It's time to write about getting started:\n\n\"Hi! I've started a job. Have a good day\""
+        },
+        {
+            "schedule": "0 19 * * *",
+            "message": "It's time to write a report, call command /report"
+        },
+        {
+            "schedule": "0 12 * * 3",
+            "message": "We have a call with Dylan in three hours."
+        },
+        {
+            "schedule": "0 14 * * 3",
+            "message": "We have a call with Dylan in hour. It's time to alert the speaker"
+        },
+        {
+            "schedule": "50 14 * * 3",
+            "message": "We have a call with Dylan in 10 minutes. It's time to alert the speaker"
+        },
+        {
+            "schedule": "0 15 * * 3",
+            "message": "Started a stake with Dylan. Stay in touch!"
+        }
+    ]
+}
